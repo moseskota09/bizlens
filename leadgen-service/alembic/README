@@ -1,0 +1,2 @@
+Run `alembic init alembic` and configure env.py for production migrations.
+This scaffold uses SQLAlchemy metadata create_all for MVP startup.
